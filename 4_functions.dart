@@ -1,3 +1,9 @@
+// Lab 3: Dart Programming Fundamentals 1
+// Solutions for all tasks
+// Student: Madina Bahriddinova
+// Student ID: 220155
+// Date: September 9, 2025
+
 // Task 2
 void greetByName(String name) {
   print("Hello, $name!");
