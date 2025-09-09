@@ -2,7 +2,7 @@
 // Solutions for all tasks
 // Student: Madina Bahriddinova
 // Student ID: 220155
-// Date: September 9, 2025
+// Date: September 9,2025
 
 void main() {
   // Task 2
